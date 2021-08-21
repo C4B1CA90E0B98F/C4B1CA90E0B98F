@@ -1,4 +1,4 @@
-## Hi there, I'm IZO <img src="https://raw.githubusercontent.com/mrijoo/mrijoo/master/Assets/Hi.gif" width="29px">
+## Hi there <img src="https://raw.githubusercontent.com/mrijoo/mrijoo/master/Assets/Hi.gif" width="29px">
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mrijoo/mrijoo/master/Assets/octocat.gif" />
 
